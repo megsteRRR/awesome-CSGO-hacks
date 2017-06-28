@@ -1,7 +1,8 @@
 # awesome-CSGO-hacks
 ----------------------------------------
-PAID HACKS of cs go
-Follow me & ENJOY :D
+PAID HACKS of Cs go </br>
+Follow me & ENJOY :D </br>
+plz don't report me :3
 
 ----------------------------------------
 
