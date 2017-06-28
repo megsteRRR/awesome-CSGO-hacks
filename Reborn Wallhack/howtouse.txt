@@ -1,0 +1,38 @@
+Regarding Bans:
+All our hacks are VAC proof, incase of a VAC, please do inform us so we fix what's not right, also a refund may be provided if you are eligible and have not used any other hacks in last 60 days.
+Regarding overwatch, NO refund will be provided, Overwatch bans are reviewed by community members, they are given a demo of 8 random rounds and have to decide if the convicted person is a hacker or not at the end of it, theres no proved way to bypass this.
+If you get banned for 'Permanantly untrusted' it is a in-server anticheat, reading how you aim, recoil, shoot, etc. THIS DOES NOT MEAN THE HACK IS DETECTED!
+
+Default Keys:
+ESP: F5
+Bunnyhop: F6
+Exit (Closes cheat): F10
+
+Customization:
+All our features are fully customizable check out the CSHreborn.ini file! [ Enemy GLOW-Thickness must be more than 200 for Clear Enemy Glow]
+
+
+
+
+
+
+Instructions:
+1.) First extract All the Files in a Folder.
+2.) Run the game and type "unbind f5" in console to remove screenshot bind so whenever you turn ON hack you dont snap automaticly.
+3.) Then Run Reborn.
+4.) Press F5 to turn the WALLHACK ON (sometimes its didnt turn on by 1 click so press 2 times if it wont work)
+3.) ez game ez lyf.
+  
+
+SAFTY Tips:-
+1. Use the Hashchanger that is inside the .rar File to to make the hack(reborn.exe) undetected forever.
+2. use the hash once in a day so.
+
+
+
+
+Note:
+
+TIP: You want to max avoid getting banned only use ESP/Radar, Aim modifiying will always have a high chance to get you banned, regardless of the cheat being undetected, there is no known way to bypass In-Server anticheat and Overwatch!
+
+
